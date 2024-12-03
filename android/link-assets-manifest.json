@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/DNFBitBitv2.ttf",
+      "sha1": "82d2df363d7ab1a2636e5adc90da8e2e934c6962"
+    },
+    {
+      "path": "src/assets/fonts/Pretendard-Medium.otf",
+      "sha1": "b05adb9ac89775d7f22733216ff7fa9fe0364853"
+    }
+  ]
+}
